@@ -1,3 +1,3 @@
 def using_concat
-  @my_favorite_things.concat@all_my_favs
+  using_concat.concat
 end
