@@ -1,3 +1,6 @@
 def using_concat
-  more_favs.concat
+array1 = []
+array2 = [1, 2]
+
+array.concat(array2[0, 1])
 end
