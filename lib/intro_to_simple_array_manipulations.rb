@@ -1,3 +1,6 @@
 def using_concat
-["a", "b"].concat(["c", "d"])
+array1 = ["a", "b"]
+array2 = ["c", "d"]
+
+array1.concat array2
 end
