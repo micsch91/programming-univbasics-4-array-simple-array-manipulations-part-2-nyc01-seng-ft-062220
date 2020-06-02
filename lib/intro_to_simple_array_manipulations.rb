@@ -1,3 +1,3 @@
 def using_concat
-  using_concat.concat
+  more_favs.concat
 end
